@@ -1,5 +1,0 @@
-sandwich
-turtle
-fish
-bird
-potato
